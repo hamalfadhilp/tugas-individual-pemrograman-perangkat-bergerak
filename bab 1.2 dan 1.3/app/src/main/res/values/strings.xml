@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bab 1</string>
+    <string name="article_title">Berita Jakarta</string>
+    <string name="article_subtitle">Studi Menunjukkan Minum Kopi Meningkatkan Kreativitas dan Kinerja Otak</string>
+    <string name="article_text">
+    <b>Jakarta, 10 Juni 2023</b> - Sebuah penelitian terbaru menunjukkan bahwa minum kopi secara teratur dapat meningkatkan kreativitas dan kinerja otak. Para peneliti dari Universitas XYZ melakukan studi yang melibatkan ribuan partisipan dan menemukan bahwa konsumsi kopi secara moderat dapat memiliki dampak positif pada fungsi kognitif.
+    \n\n
+    Studi ini melibatkan partisipan dari berbagai kelompok usia dan latar belakang. Selama beberapa bulan, partisipan diberikan kopi dalam jumlah yang ditentukan setiap hari. Hasilnya menunjukkan bahwa mereka yang mengonsumsi kopi mengalami peningkatan dalam kemampuan pemecahan masalah, konsentrasi, dan kemampuan berpikir kreatif.
+    \n\n
+    "Kami terkejut dengan temuan kami yang menunjukkan hubungan positif antara konsumsi kopi dan kinerja otak. Kopi mengandung senyawa aktif yang dapat mempengaruhi neurotransmiter dan meningkatkan aktivitas otak," kata Profesor Jane Doe, peneliti utama dari studi tersebut.
+    \n\n
+    Meskipun temuan ini menarik, para peneliti juga menekankan pentingnya konsumsi kopi secara moderat. Terlalu banyak kafein dapat menyebabkan efek samping seperti gangguan tidur dan kecemasan. Oleh karena itu, disarankan untuk mengonsumsi kopi dengan bijak dan tidak melebihi jumlah yang direkomendasikan.
+    \n\n
+    Temuan ini memberikan bukti lebih lanjut tentang manfaat kopi bagi kinerja otak dan dapat menjadi dasar untuk penelitian lebih lanjut dalam bidang ini. Bagi para pecinta kopi, berita ini tentu saja menjadi kabar yang menggembirakan.
+    </string>
+</resources>
